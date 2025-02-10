@@ -1,2 +1,2 @@
 # ROCK - PAPER - SCISSOR - GAME
-in this game you are going to play against the computer the famous game 'rock-paper-scissor' 
+In this game, you’ll be playing against the computer in the classic game of Rock-Paper-Scissors. Let’s see who comes out on top! 
